@@ -1,0 +1,3 @@
+function look () {
+  console.log("Hello world!");
+}
